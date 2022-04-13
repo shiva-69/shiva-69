@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" alt = "shiva-69" height="10" width="10" , I'm Shivam Pandey</h1>
+<h1 align="center">Hi <img src = "https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" alt = "shiva-69" height="20" width="20"> , I'm Shivam Pandey</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-69&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-69" /> </p> -->
