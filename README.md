@@ -11,6 +11,8 @@
 
 - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shivam8kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam8kp" height="30" width="40" /></a> &nbsp;&nbsp;
