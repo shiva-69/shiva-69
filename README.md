@@ -11,7 +11,7 @@
 
 - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-69)](https://github.com/shiva-69/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
