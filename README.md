@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-69&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-69" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-69&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-69" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-69" alt="shiva-69" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-69" alt="shiva-69" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [shivam8kp-portfolio.netlify.app/](shivam8kp-portfolio.netlify.app/)
+- 👨‍💻 Take a peek at my projects [shivam8kp-portfolio.netlify.app/](shivam8kp-portfolio.netlify.app/)
 
-- 📫 How to reach me **shivam8kp@gmail.com**
+- 📫 Just an E-mail away **shivam8kp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing)
+- 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
