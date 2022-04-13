@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-69)](https://github.com/shiva-69/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&layout=compact)](https://github.com/shiva-69/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
