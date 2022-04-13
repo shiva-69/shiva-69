@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
+<h1 align="center">Hi <img src = "https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" alt = "shiva-69", I'm Shivam Pandey</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva-69&label=Profile%20views&color=0e75b6&style=flat" alt="shiva-69" /> </p> -->
@@ -13,7 +13,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-69)](https://github.com/shiva-69/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en" alt="shiva-69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en" alt="shiva-69" /></p>
 
 
 
