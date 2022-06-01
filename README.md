@@ -8,7 +8,6 @@
 - 👨‍💻 Take a peek at my projects [shivam8kp-portfolio.netlify.app/](shivam8kp-portfolio.netlify.app/)
 
 - 📫 Just an E-mail away **shivam8kp@gmail.com**
-- ![](https://komarev.com/ghpvc/?username=shiva-69)
 
 <!-- - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing) -->
 
