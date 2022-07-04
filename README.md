@@ -11,7 +11,7 @@
 
 <!-- - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing) -->
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-69)](https://github.com/shiva-69/github-readme-stats) -->
+<!-- [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva-69)](https://github.com/shiva-69/github-readme-stats) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact) -->
 
@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en" alt="shiva-69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en" alt="shiva-69" height="40%" width="40%"/></p>
 
 
 
