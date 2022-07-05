@@ -25,10 +25,10 @@
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/000000/react.png"/> </a>&nbsp;&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> &nbsp;&nbsp;
+<a href=""><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> &nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>&nbsp;&nbsp;
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> </a> &nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>&nbsp;&nbsp;
 
