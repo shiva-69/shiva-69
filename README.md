@@ -35,8 +35,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact&theme=radical" alt="shiva-69" height="40%" width="40%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-69&hide=php&layout=compact&theme=radical" alt="shiva-69" height="50%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en&theme=radical" alt="shiva-69" height="40%" width="40%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-69&show_icons=true&locale=en&theme=radical" alt="shiva-69" height="50%" width="50%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-69&theme=radical" alt="shiva-69" height="40%" width="40%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-69&theme=radical" alt="shiva-69" height="50%" width="50%"/></p>
