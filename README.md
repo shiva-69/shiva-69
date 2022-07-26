@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-69" alt="shiva-69" /></a> </p> -->
 
-- 👨‍💻 Take a peek at my projects [shivam8kp-portfolio.netlify.app/](shivam8kp-portfolio.netlify.app/)
+- 👨‍💻 Take a peek at my projects [portfolio-shivamp.netlify.app/](portfolio-shivamp.netlify.app/)
 
 - 📫 Just an E-mail away **shivam8kp@gmail.com**
 
