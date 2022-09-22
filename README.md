@@ -9,7 +9,7 @@
 
 - 👨‍💻 Take a peek at my [projects](https://portfolio-shivamp.netlify.app/)
 
-- 📫 Just an E-mail away **shivam8kp@gmail.com**
+- 📫 Just an e-mail away **shivam8kp@gmail.com**
 
 <!-- - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing) -->
 
