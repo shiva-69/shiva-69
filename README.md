@@ -26,6 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/office/40/000000/react.png"/> </a>&nbsp;&nbsp;
+ <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/> </a>&nbsp;&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>&nbsp;&nbsp;
 <a href=""><img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a> &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> &nbsp;&nbsp;
