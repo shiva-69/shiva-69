@@ -7,9 +7,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva-69" alt="shiva-69" /></a> </p> -->
 
-- 👨‍💻 Take a peek at my [projects](https://portfolio-shivamp.netlify.app/)
+- 👨‍💻 Take a peek at my [projects](https://portfolio-shivamp.netlify.app/).
 
-- 📫 Just an e-mail away **shivam8kp@gmail.com**
+- 📫 Just an e-mail away **shivam8kp@gmail.com**.
 - 📝 I also write about Frontend Development on my [blog](https://shiva69.hashnode.dev/).
 
 <!-- - 📄 Know in detail about my experiences [https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing](https://drive.google.com/file/d/1LN7ROJbiMf1JGK0kz0aOAyLo59p5YXN8/view?usp=sharing) -->
