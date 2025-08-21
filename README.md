@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** passionate about building scalable, efficient applications. I specialize in full-stack development with expertise in **modern web technologies, AI integration, and clean architecture**. Currently pursuing my **Master's in Computer Applications** at SRM Institute of Science and Technology.
+I'm a **Software Engineer** focused on building scalable, efficient applications. I specialize in full-stack development with expertise in **modern web technologies, AI integration, and clean architecture**. Currently pursuing my **Master's in Computer Applications** at SRM Institute of Science and Technology.
 
 - 🔭 **Focus Areas**: Full-stack web development, AI integration, payment systems
 - 🌱 **Always Learning**: New technologies and best practices in software development
