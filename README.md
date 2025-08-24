@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shivam Pandey
+# Hi there! 👋 I'm Shivam
 
 <div align="center">
   <h3>🚀 Full Stack Web Developer | MERN Stack Specialist | AI Enthusiast</h3>
