@@ -111,5 +111,4 @@ I'm a **Software Engineer** focused on building scalable, efficient applications
   
   **💡 "Building scalable solutions with clean, efficient code"**
   
-  *Open to collaborating on innovative full-stack and AI projects!*
 </div>
