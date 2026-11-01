@@ -1,4 +1,4 @@
-Software engineer at [Payspaze](https://payspaze.com), working on payments infrastructure and applied AI. Based in Lucknow, India.
+Software engineer at [Payspaze](https://payspaze.com), working on payments infrastructure and applied AI.
 
 I build backend systems that need to be correct and stay up: payment gateway services, ticketing and document workflows, mostly in Java and Spring Boot, running on Kubernetes and Google Cloud. More recently I've been building retrieval-augmented generation pipelines and LLM-backed features in Python.
 
